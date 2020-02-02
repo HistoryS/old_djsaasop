@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "element-ui": "^1.2.8",
-    "jquery": "^2.2.4",
+    "jquery": "^3.4.1",
     "less": "^2.7.2",
     "less-loader": "^4.0.3",
     "sweetalert": "^1.1.3",
